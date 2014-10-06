@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A17493819E25FAC000E785F /* chivas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0A17493719E25FAC000E785F /* chivas.jpg */; };
+		0A1A3C9D19E270D300D47D71 /* atlas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0A1A3C9C19E270D200D47D71 /* atlas.jpg */; };
+		0A80780E19E2747B007E7FA9 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A80780D19E2747B007E7FA9 /* MediaPlayer.framework */; };
+		0A80781119E28D4A007E7FA9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A80781019E28D4A007E7FA9 /* UIKit.framework */; };
+		0A80781319E28D69007E7FA9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A80781219E28D69007E7FA9 /* Foundation.framework */; };
+		0A80781519E28D7F007E7FA9 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A80781419E28D7F007E7FA9 /* CoreGraphics.framework */; };
 		0AB8A26419E2214A001E5A4F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AB8A26319E2214A001E5A4F /* main.m */; };
 		0AB8A26719E2214A001E5A4F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AB8A26619E2214A001E5A4F /* AppDelegate.m */; };
 		0AB8A26A19E2214A001E5A4F /* Homework1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0AB8A26819E2214A001E5A4F /* Homework1.xcdatamodeld */; };
@@ -15,6 +21,12 @@
 		0AB8A27219E2214A001E5A4F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AB8A27119E2214A001E5A4F /* Images.xcassets */; };
 		0AB8A27519E2214A001E5A4F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0AB8A27319E2214A001E5A4F /* LaunchScreen.xib */; };
 		0AB8A28119E2214B001E5A4F /* Homework1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AB8A28019E2214B001E5A4F /* Homework1Tests.m */; };
+		0AB8A28C19E22618001E5A4F /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AB8A28B19E22618001E5A4F /* 1.jpg */; };
+		0AB8A29019E22625001E5A4F /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AB8A28D19E22625001E5A4F /* 3.jpg */; };
+		0AB8A29119E22625001E5A4F /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AB8A28E19E22625001E5A4F /* 4.jpg */; };
+		0AB8A29219E22625001E5A4F /* tapalpa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AB8A28F19E22625001E5A4F /* tapalpa.jpg */; };
+		0AB8A29419E22641001E5A4F /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AB8A29319E22641001E5A4F /* 2.jpg */; };
+		0AB8A29619E22654001E5A4F /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AB8A29519E22654001E5A4F /* 5.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,6 +40,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0A17493719E25FAC000E785F /* chivas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chivas.jpg; sourceTree = "<group>"; };
+		0A1A3C9C19E270D200D47D71 /* atlas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = atlas.jpg; sourceTree = "<group>"; };
+		0A41366119E29D220097287F /* video.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video.mp4; sourceTree = "<group>"; };
+		0A80780D19E2747B007E7FA9 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		0A80780F19E281E7007E7FA9 /* Xcode 4.4-How to make a Scroll View.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Xcode 4.4-How to make a Scroll View.mp4"; sourceTree = "<group>"; };
+		0A80781019E28D4A007E7FA9 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		0A80781219E28D69007E7FA9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		0A80781419E28D7F007E7FA9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		0AB8A25E19E2214A001E5A4F /* Homework1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Homework1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AB8A26219E2214A001E5A4F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0AB8A26319E2214A001E5A4F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -42,6 +62,12 @@
 		0AB8A27A19E2214B001E5A4F /* Homework1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Homework1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AB8A27F19E2214B001E5A4F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0AB8A28019E2214B001E5A4F /* Homework1Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Homework1Tests.m; sourceTree = "<group>"; };
+		0AB8A28B19E22618001E5A4F /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		0AB8A28D19E22625001E5A4F /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		0AB8A28E19E22625001E5A4F /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		0AB8A28F19E22625001E5A4F /* tapalpa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tapalpa.jpg; sourceTree = "<group>"; };
+		0AB8A29319E22641001E5A4F /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		0AB8A29519E22654001E5A4F /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +75,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A80781519E28D7F007E7FA9 /* CoreGraphics.framework in Frameworks */,
+				0A80781319E28D69007E7FA9 /* Foundation.framework in Frameworks */,
+				0A80781119E28D4A007E7FA9 /* UIKit.framework in Frameworks */,
+				0A80780E19E2747B007E7FA9 /* MediaPlayer.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +95,10 @@
 		0AB8A25519E2214A001E5A4F = {
 			isa = PBXGroup;
 			children = (
+				0A80781419E28D7F007E7FA9 /* CoreGraphics.framework */,
+				0A80781219E28D69007E7FA9 /* Foundation.framework */,
+				0A80781019E28D4A007E7FA9 /* UIKit.framework */,
+				0A80780D19E2747B007E7FA9 /* MediaPlayer.framework */,
 				0AB8A26019E2214A001E5A4F /* Homework1 */,
 				0AB8A27D19E2214B001E5A4F /* Homework1Tests */,
 				0AB8A25F19E2214A001E5A4F /* Products */,
@@ -99,6 +133,7 @@
 		0AB8A26119E2214A001E5A4F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0AB8A28A19E225FE001E5A4F /* img */,
 				0AB8A26219E2214A001E5A4F /* Info.plist */,
 				0AB8A26319E2214A001E5A4F /* main.m */,
 			);
@@ -120,6 +155,23 @@
 				0AB8A27F19E2214B001E5A4F /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0AB8A28A19E225FE001E5A4F /* img */ = {
+			isa = PBXGroup;
+			children = (
+				0A41366119E29D220097287F /* video.mp4 */,
+				0A80780F19E281E7007E7FA9 /* Xcode 4.4-How to make a Scroll View.mp4 */,
+				0A1A3C9C19E270D200D47D71 /* atlas.jpg */,
+				0A17493719E25FAC000E785F /* chivas.jpg */,
+				0AB8A29519E22654001E5A4F /* 5.jpg */,
+				0AB8A29319E22641001E5A4F /* 2.jpg */,
+				0AB8A28D19E22625001E5A4F /* 3.jpg */,
+				0AB8A28E19E22625001E5A4F /* 4.jpg */,
+				0AB8A28F19E22625001E5A4F /* tapalpa.jpg */,
+				0AB8A28B19E22618001E5A4F /* 1.jpg */,
+			);
+			name = img;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -202,8 +254,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0AB8A29119E22625001E5A4F /* 4.jpg in Resources */,
+				0A1A3C9D19E270D300D47D71 /* atlas.jpg in Resources */,
+				0AB8A29019E22625001E5A4F /* 3.jpg in Resources */,
 				0AB8A27019E2214A001E5A4F /* Main.storyboard in Resources */,
+				0AB8A29619E22654001E5A4F /* 5.jpg in Resources */,
+				0AB8A29219E22625001E5A4F /* tapalpa.jpg in Resources */,
+				0AB8A28C19E22618001E5A4F /* 1.jpg in Resources */,
 				0AB8A27519E2214A001E5A4F /* LaunchScreen.xib in Resources */,
+				0A17493819E25FAC000E785F /* chivas.jpg in Resources */,
+				0AB8A29419E22641001E5A4F /* 2.jpg in Resources */,
 				0AB8A27219E2214A001E5A4F /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -416,6 +476,7 @@
 				0AB8A28619E2214B001E5A4F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0AB8A28719E2214B001E5A4F /* Build configuration list for PBXNativeTarget "Homework1Tests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +485,7 @@
 				0AB8A28919E2214B001E5A4F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
